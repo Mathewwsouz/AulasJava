@@ -6,7 +6,8 @@ public class teste02 {
         int numero;
         Data data =  new Data();
         Scanner scan =  new Scanner (System.in);
-
+        
+        /* 
         System.out.println("digite o numero do processo:");
         numero = scan.nextInt();
         System.out.println("Digite o dia:");
@@ -17,7 +18,7 @@ public class teste02 {
         data.ano = scan.nextInt();
         System.out.printf("\033[H\033[2J");
         System.out.println("Apresentação da data:");
-        data.ImprimirDados();
+        data.ImprimirDados();*/
 
 
     }
