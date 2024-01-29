@@ -16,7 +16,6 @@ public class teste02 {
         System.out.println("Digite o Ano:");
         data.ano = scan.nextInt();
         System.out.printf("\033[H\033[2J");
-        
         System.out.println("Apresentação da data:");
         data.ImprimirDados();
 
