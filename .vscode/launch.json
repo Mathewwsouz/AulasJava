@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MediaNotas",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.MediaNotas",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.Arrays",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
