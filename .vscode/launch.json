@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pilha",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.Pilha",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
+            "name": "Fila",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.Fila",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
+            "name": "Listas",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.Listas",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
+            "name": "ImplementacaoEquals",
+            "request": "launch",
+            "mainClass": "AulaJava/Arrays.ImplementacaoEquals",
+            "projectName": "AulaJava"
+        },
+        {
+            "type": "java",
             "name": "MediaNotas",
             "request": "launch",
             "mainClass": "AulaJava/Arrays.MediaNotas",
